@@ -27,7 +27,8 @@ I build tools that eliminate repetitive work for businesses — inbox triage, re
 
 #### 📫 Contact
 
-- 📧 ahmed.mazal@ejust.edu.eg
+- 📧ramzy.elhadad@ejust.edu.eg
+
 - - 🌐 Portfolio: [ramzymo.vercel.app](https://ramzymo.vercel.app) *(coming soon)*
  
   - ---
